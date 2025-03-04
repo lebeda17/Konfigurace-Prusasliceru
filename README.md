@@ -4,11 +4,11 @@ Tento repozitář obsahuje aktuální konfigurace pro PrusaSlicer, které použ�
 
 ## Související projekty
 
-- **GitHub Rozcestník (Lebeda-Repo)**  
+- 🛠️**GitHub Rozcestník (Lebeda-Repo)**  
   Centrální repozitář mých projektů.  
   🔗 [Otevřít](https://github.com/lebeda17/Lebeda-Repo)
 
-- **Onshape dokumentace**  
+- 📖**Onshape dokumentace**  
   Repozitář s přeloženou dokumentací programu Onshape.  
   🔗 [Otevřít](https://github.com/lebeda17/Onshape/wiki)
 
